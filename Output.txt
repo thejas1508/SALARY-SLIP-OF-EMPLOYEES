@@ -1,0 +1,11 @@
+Enter the number of employees:2
+Enter your input for every employee:100 
+Employee ID:21
+Employee Name: THEJAS 
+Basic Salary, HRA:30,000
+Enter the basic pay, allowances & deductions: 5000 1000 250 
+No Record Found!
+Employee ID: 22 Enter the name: KUMAR 
+Basic Salary, HRA:40,000
+Enter the basic pay, allowances & deductions: 7000 1500 750 
+Do You Want To Continue(1/0)
